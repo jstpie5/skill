@@ -1,0 +1,3 @@
+[submodule "apps/skill"]
+	path = apps/skill
+	url = https://github.com/jstpie5/jstpie5.git
